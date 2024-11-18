@@ -1,7 +1,15 @@
+
+body {
+    background-color: darkslategrey;
+}
 section {
+
+    background-color: #2F2F2e;
     height: 25vh;
     width: 30vw;
 
     display: flex;
     flex-direction: column;
+
+    color: whitesmoke;
 }
