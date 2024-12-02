@@ -38,6 +38,7 @@ img{
     background-color: rgb(29, 33, 66);
 }
 .categoria-videos{
+    margin-top: 3vh;
     display: flex; 
     overflow-x: auto;
     gap: 10px;
